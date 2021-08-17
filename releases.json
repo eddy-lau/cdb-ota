@@ -1,5 +1,13 @@
 [
   {
+    "version": "6.11.0",
+    "buildNumber": "153",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "新增2021年第四季內容。"
+    ]
+  },
+  {
     "version": "6.10.0",
     "buildNumber": "151",
     "plist": "ChineseDailyBreadAdhoc.plist",
