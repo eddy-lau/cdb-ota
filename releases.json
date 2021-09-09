@@ -1,5 +1,14 @@
 [
   {
+    "version": "6.11.1",
+    "buildNumber": "156",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "第二次修正2021年第四季內容。",
+      "分享功能不再依賴Facebook。"
+    ]
+  },
+  {
     "version": "6.11.0",
     "buildNumber": "155",
     "plist": "ChineseDailyBreadAdhoc.plist",
