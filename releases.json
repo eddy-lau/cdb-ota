@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.0.0",
+    "buildNumber": "158",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "Support iOS 15"
+    ]
+  },
+  {
     "version": "6.11.1",
     "buildNumber": "157",
     "plist": "ChineseDailyBreadAdhoc.plist",
