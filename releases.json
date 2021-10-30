@@ -1,6 +1,14 @@
 [
   {
     "version": "7.0.0",
+    "buildNumber": "159",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "Widget, and tons of improvements"
+    ]
+  },
+  {
+    "version": "7.0.0",
     "buildNumber": "158",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
