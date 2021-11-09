@@ -1,18 +1,18 @@
 [
   {
-    "version": "7.0.0",
-    "buildNumber": "159",
+    "version": "7.1.0",
+    "buildNumber": "161",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
-      "Widget, and tons of improvements"
+      "新增介面色調功能"
     ]
   },
   {
-    "version": "7.0.0",
-    "buildNumber": "158",
+    "version": "7.0.1",
+    "buildNumber": "160",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
-      "Support iOS 15"
+      "新增小功具功能"
     ]
   },
   {
