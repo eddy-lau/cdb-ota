@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.2.0",
+    "buildNumber": "164",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "新增2022年第一季內容"
+    ]
+  },
+  {
     "version": "7.1.0",
     "buildNumber": "163",
     "plist": "ChineseDailyBreadAdhoc.plist",
