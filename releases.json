@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.2.2",
+    "buildNumber": "169",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "Upgraded to latest Dropbox SDK"
+    ]
+  },
+  {
     "version": "7.2.1",
     "buildNumber": "168",
     "plist": "ChineseDailyBreadAdhoc.plist",
