@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.2.1",
+    "buildNumber": "168",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "Dropbox Crash hotfix"
+    ]
+  },
+  {
     "version": "7.2.0",
     "buildNumber": "166",
     "plist": "ChineseDailyBreadAdhoc.plist",
