@@ -1,5 +1,14 @@
 [
   {
+    "version": "7.3.2",
+    "buildNumber": "173",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "修正Dropbox 備份問題",
+      "提升稳定性"
+    ]
+  },
+  {
     "version": "7.2.2",
     "buildNumber": "169",
     "plist": "ChineseDailyBreadAdhoc.plist",
