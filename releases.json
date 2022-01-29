@@ -1,5 +1,14 @@
 [
   {
+    "version": "7.4.0",
+    "buildNumber": "176",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "新增每日提示功能",
+      "改善深色介面字體顏色"
+    ]
+  },
+  {
     "version": "7.3.2",
     "buildNumber": "173",
     "plist": "ChineseDailyBreadAdhoc.plist",
