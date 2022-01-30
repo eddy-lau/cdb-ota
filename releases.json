@@ -1,7 +1,7 @@
 [
   {
-    "version": "7.4.0",
-    "buildNumber": "176",
+    "version": "7.4.1",
+    "buildNumber": "177",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
       "新增每日提示功能",
