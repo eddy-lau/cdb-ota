@@ -1,6 +1,14 @@
 [
   {
     "version": "7.6.0",
+    "buildNumber": "187",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "新增 Device"
+    ]
+  },
+  {
+    "version": "7.6.0",
     "buildNumber": "186",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
