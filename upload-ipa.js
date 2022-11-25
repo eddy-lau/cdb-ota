@@ -104,7 +104,7 @@ function githubOauth() {
           if (err) {
             reject(err);
           } else {
-            resolve(token);
+            resolve(token.access_token);
           }
         });
 
