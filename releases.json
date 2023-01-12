@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.8.2",
+    "buildNumber": "196",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "修正2022年內容。"
+    ]
+  },
+  {
     "version": "7.8.0",
     "buildNumber": "194",
     "plist": "ChineseDailyBreadAdhoc.plist",
