@@ -816,9 +816,15 @@ ghauth@^2.0.0:
     read "~1.0.5"
     xtend "~4.0.0"
 
-"github-ipa-uploader@link:../github-ipa-uploader":
-  version "0.0.0"
-  uid ""
+"github-ipa-uploader@https://github.com/eddy-lau/github-ipa-uploader":
+  version "1.0.2"
+  resolved "https://github.com/eddy-lau/github-ipa-uploader#fd52113757e00ecf2e40401c39ee42a15dd0f908"
+  dependencies:
+    async "^3.2.0"
+    cli-progress "^2.1.1"
+    ipa-extract-info "^1.2.5"
+    ipa-metadata2 "https://github.com/eddy-lau/ipa-metadata2"
+    publish-release "^1.6.1"
 
 github-oauth@^0.2.2:
   version "0.2.2"

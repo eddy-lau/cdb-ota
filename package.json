@@ -13,7 +13,7 @@
   "dependencies": {
     "async": "^3.2.0",
     "commander": "^3.0.2",
-    "github-ipa-uploader": "link:../github-ipa-uploader",
+    "github-ipa-uploader": "https://github.com/eddy-lau/github-ipa-uploader",
     "github-oauth": "^0.2.2",
     "http-shutdown": "^1.2.0",
     "opn": "^5.5.0"
