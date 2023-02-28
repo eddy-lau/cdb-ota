@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.9.0",
+    "buildNumber": "197",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "新增2023年第2季內容。"
+    ]
+  },
+  {
     "version": "7.8.2",
     "buildNumber": "196",
     "plist": "ChineseDailyBreadAdhoc.plist",
