@@ -1,11 +1,13 @@
 [
   {
     "version": "8.0.0",
-    "buildNumber": "200",
+    "buildNumber": "202",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
-      "聆聽版 - 試用版",
-      "可試聽6月12日和4月15日"
+      "聆聽版 - RC1",
+      "新增《關於聆聽版》",
+      "新增使用說明",
+      "新增聆聽版設定"
     ]
   },
   {
