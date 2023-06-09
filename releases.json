@@ -1,10 +1,11 @@
 [
   {
     "version": "8.1.0",
-    "buildNumber": "209",
+    "buildNumber": "210",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
-      "修正2023年第三季內容。"
+      "修正2023年第三季內容。",
+      "新增了鳴謝名單。"
     ]
   },
   {
