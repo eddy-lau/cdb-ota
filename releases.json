@@ -1,16 +1,6 @@
 [
   {
     "version": "8.1.1",
-    "buildNumber": "215",
-    "plist": "ChineseDailyBreadAdhoc.plist",
-    "changes": [
-      "修正同時播放兩日內容的問題",
-      "修正Audio Session問題。",
-      "Built with Xcode 14.3"
-    ]
-  },
-  {
-    "version": "8.1.1",
     "buildNumber": "214",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
