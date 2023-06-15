@@ -1,5 +1,13 @@
 [
   {
+    "version": "8.1.1",
+    "buildNumber": "213",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "修正同時播放兩日和 Audio Session問題。"
+    ]
+  },
+  {
     "version": "8.1.0",
     "buildNumber": "212",
     "plist": "ChineseDailyBreadAdhoc.plist",
