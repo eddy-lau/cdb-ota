@@ -1,10 +1,10 @@
 [
   {
     "version": "8.1.1",
-    "buildNumber": "215",
+    "buildNumber": "216",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
-      "Tried to fixed Xcode 14.3 crash."
+      "Fixed the post composer crash if built with Xcode 14.3"
     ]
   },
   {
