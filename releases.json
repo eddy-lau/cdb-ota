@@ -1,5 +1,13 @@
 [
   {
+    "version": "8.1.2",
+    "buildNumber": "217",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "Fixed the problem that the player is not dismissed if done button is tapped."
+    ]
+  },
+  {
     "version": "8.1.1",
     "buildNumber": "216",
     "plist": "ChineseDailyBreadAdhoc.plist",
