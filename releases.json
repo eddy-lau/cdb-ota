@@ -1,7 +1,7 @@
 [
   {
     "version": "8.2.0",
-    "buildNumber": "218",
+    "buildNumber": "219",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
       "支援簡介錄音",
