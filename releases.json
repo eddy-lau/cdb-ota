@@ -1,7 +1,7 @@
 [
   {
     "version": "8.2.0",
-    "buildNumber": "220",
+    "buildNumber": "221",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
       "修正crash",
