@@ -1,9 +1,10 @@
 [
   {
     "version": "8.2.0",
-    "buildNumber": "219",
+    "buildNumber": "220",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
+      "修正crash",
       "支援簡介錄音",
       "書卷首日新簡介介面"
     ]
