@@ -1,6 +1,14 @@
 [
   {
     "version": "8.3.0",
+    "buildNumber": "224",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "第一次修正2023年第四季內容。"
+    ]
+  },
+  {
+    "version": "8.3.0",
     "buildNumber": "223",
     "plist": "ChineseDailyBreadAdhoc.plist",
     "changes": [
