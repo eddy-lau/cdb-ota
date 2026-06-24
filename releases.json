@@ -1,5 +1,14 @@
 [
   {
+    "version": "8.16.1",
+    "buildNumber": "308",
+    "plist": "ChineseDailyBreadAdhoc.plist",
+    "changes": [
+      "更新CDBScripture 2.28.1。",
+      "更新CDBStore 1.38.1：移除提摩太前書簡介中的錄音剪輯credit。"
+    ]
+  },
+  {
     "version": "8.6.0",
     "buildNumber": "237",
     "plist": "ChineseDailyBreadAdhoc.plist",
